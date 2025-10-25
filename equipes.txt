@@ -1,0 +1,5 @@
+1;Liturgia;Maria;8;Ativa
+2;Alimentação;José;12;Preparação
+3;Música;João;10;Ativa
+4;Limpeza;Ana;6;Ativa
+5;Evangelização;Paulo;9;Preparação
